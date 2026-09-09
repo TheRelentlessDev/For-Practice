@@ -13,5 +13,8 @@ public class HelloWorld {
     public static int sum(int num5, int num6){
         return num5 + num6;
     }
+    public static int division(int val1,int val2){
+        return val1/val2;
+    }
 }
 
