@@ -10,4 +10,8 @@ public class HelloWorld {
     public static int deduct(int num3,int num4){
         return num3 - num4;
     }
+    public static int sum(int num5, int num6){
+        return num5 + num6;
+    }
 }
+
